@@ -1,2 +1,2 @@
-# smd-linux-template
-Template for Repositories
+# SMD-Linux Conky Manager
+A GUI for managing Conkys
